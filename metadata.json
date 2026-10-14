@@ -1,0 +1,6 @@
+{
+  "name": "Open Calculator",
+  "description": "Modern, high-precision all-in-one calculator with scientific functions, 190+ world currencies, 140+ world languages & numeral systems, unit & financial converters, programmer tools, and calculation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
