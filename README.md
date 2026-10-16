@@ -1,3 +1,9 @@
+<img width="1920" height="1080" alt="Artboard 1" src="https://github.com/user-attachments/assets/23b6c270-de53-49c2-ae8a-a8708f664bd9" />
+<img width="1920" height="1080" alt="Artboard 1" src="https://github.com/user-attachments/assets/2816ac52-ed15-48f8-b8fd-0dff91d6b6d3" />
+<img width="1920" height="1080" alt="Tools" src="https://github.com/user-attachments/assets/db5b4513-4bd9-4cf6-be07-51995bda336b" />
+<img width="1920" height="1080" alt="Artboard 2" src="https://github.com/user-attachments/assets/1adc3528-bf70-4056-8905-b8ead4572f39" />
+
+
 # Open Calculator
 
 A free, offline, all-in-one calculator for Android. It combines a scientific calculator with a set of everyday tools (unit and currency conversion, finance, dates, geometry, statistics, programmer mode) in one app. No account, no ads, no analytics, no internet permission. Everything stays on your device.
@@ -87,8 +93,3 @@ All rights reserved by SE7EN unless you add an open-source license. Add a `LICEN
 ## Contact
 mdrabiulalam056@gmail.com
 
-
-<img width="1920" height="1080" alt="Artboard 1" src="https://github.com/user-attachments/assets/23b6c270-de53-49c2-ae8a-a8708f664bd9" />
-<img width="1920" height="1080" alt="Artboard 1" src="https://github.com/user-attachments/assets/2816ac52-ed15-48f8-b8fd-0dff91d6b6d3" />
-<img width="1920" height="1080" alt="Tools" src="https://github.com/user-attachments/assets/db5b4513-4bd9-4cf6-be07-51995bda336b" />
-<img width="1920" height="1080" alt="Artboard 2" src="https://github.com/user-attachments/assets/1adc3528-bf70-4056-8905-b8ead4572f39" />
