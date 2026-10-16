@@ -8,7 +8,7 @@
 
 A free, offline, all-in-one calculator for Android. It combines a scientific calculator with a set of everyday tools (unit and currency conversion, finance, dates, geometry, statistics, programmer mode) in one app. No account, no ads, no analytics, no internet permission. Everything stays on your device.
 
-- **Package:** `com.aistudio.omnicalc.vxrtzq` (change before publishing)
+- **Package:** `com.se7en.omnicalc.` (change before publishing)
 - **Platform:** Android 7.0+ (minSdk 24), targets SDK 36
 - **Built with:** Kotlin 2.2, Jetpack Compose (Material 3), Room, Android Gradle Plugin 9.1
 
